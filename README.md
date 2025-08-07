@@ -62,7 +62,7 @@ Este projeto teve como propósito:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **[Seu Nome ou @seu-usuário no GitHub]**  
+Desenvolvido por **[José Ferreira/@realjoseferreira]**  
 📌 Este projeto é parte do meu portfólio de aprendizado em desenvolvimento mobile.
 
 ---
